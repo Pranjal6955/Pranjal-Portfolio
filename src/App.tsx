@@ -131,6 +131,12 @@ const skills = {
       description: 'Hooks, Context, Redux, Next.js'
     },
     { 
+      name: 'Vue.js',
+      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg',
+      level: 85,
+      description: 'Vue 3, Composition API, Vuex, Vue Router'
+    },
+    { 
       name: 'Tailwind CSS',
       icon: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
       level: 88,
